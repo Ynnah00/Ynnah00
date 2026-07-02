@@ -6,7 +6,7 @@ I am a Full-Stack Web Developer focused on building real-world, market-ready app
 
 ### 🚀 Featured Project: Lost & Found System
 * **Live Website:**: https://project-code-production-0d6c.up.railway.app/
-* **Tech Stack:** 
+**Tech Stack:** 
 
 * **Backend & API**: Node.js, Express.js (RESTful API Architecture)
 * **Frontend**: Vanilla JavaScript, HTML5, Responsive CSS3 (No-framework dependency)
